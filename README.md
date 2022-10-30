@@ -52,7 +52,7 @@
 
 
 
-* About the tecnique of Lossless Data Compression with Huffman coding.
+* About the technique of Lossless Data Compression with Huffman coding.
 
 <a href="#"> ![info1](images/readme-images/info.png) </a>
 
