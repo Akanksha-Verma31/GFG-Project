@@ -39,11 +39,11 @@
 
     * Compression - Compression Ratio is also displayed 
 
-    <a href="#"> ![compression](images/readme-images/step2.png) </a>
+    <a href="#"> ![compression](images/readme-images/compression.png) </a>
     
     * De-compression
 
-    <a href="#"> ![decompression](images/readme-images/decompression.png) </a>
+    <a href="#"> ![decompression](images/readme-images/step2.png) </a>
 
 * Additional Instructions and Warnings are provided if the above steps are not followed correctly
 
